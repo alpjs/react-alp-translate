@@ -1,5 +1,7 @@
 # react-alp-translate [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/react-alp-translate.svg)](https://greenkeeper.io/)
+
 react translate
 
  [![Dependency Status][daviddm-image]][daviddm-url]
